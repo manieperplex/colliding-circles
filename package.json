@@ -1,0 +1,19 @@
+{
+  "name": "colliding-circles",
+  "scripts": {
+    "dev-server": "webpack-dev-server --mode development",
+    "build": "webpack --watch"
+  },
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "rbush": "^3.0.0",
+    "stats.js": "^0.17.0",
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.1",
+    "webpack-dev-server": "^3.3.1"
+  }
+}
